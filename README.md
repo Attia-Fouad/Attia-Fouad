@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **attiafouad04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bkay4rP8H-p-6-KXEOPTRuNDGvPabV3C/view](https://drive.google.com/file/d/1bkay4rP8H-p-6-KXEOPTRuNDGvPabV3C/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
