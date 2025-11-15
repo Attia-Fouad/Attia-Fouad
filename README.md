@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attia-fouad&label=Profile%20views&color=0e75b6&style=flat" alt="attia-fouad" /> </p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" style="visibility:visible;max-width:100%;" width="250px" align="right">
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Compose Multiplatform (CMP) for cross-platform dev**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/attiafouad/](https://www.linkedin.com/in/attiafouad/)
 
@@ -27,6 +27,38 @@
     <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
   </svg>
 </a>
+
+
+<h3 class="heading-element" dir="auto">BSA</h3>
+<a id="user-content-bsa" class="anchor" aria-label="Permalink: BSA" href="#bsa">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+  </svg>
+</a>
+
+ BSA is a dedicated ERB system developed exclusively for managing the internal operations of the BSA Engineering consultants organization.
+ 
+<div align="start" style="margin-top: 20px;">
+  <div style="margin-bottom: 10px;">
+    <a href="https://play.google.com/store/apps/details?id=com.bsa.consultant" target="_blank" rel="noopener noreferrer" style="text-decoration: none; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 14px; display: inline-block;">
+       Google Play
+    </a>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <a href="https://apps.apple.com/us/app/bsa/id6739010058" target="_blank" rel="noopener noreferrer" style="text-decoration: none; background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 14px; display: inline-block;">
+      App Store
+    </a>
+  </div>
+</div>
+
+
+
+<hr>
+
+
+
+
+
 
 <h3 class="heading-element" dir="auto">OneFurever</h3>
 <a id="user-content-one-furever" class="anchor" aria-label="Permalink: OneFurever" href="#one-furever">
@@ -181,6 +213,53 @@
 
 
 <hr>
+
+
+
+
+
+
+
+
+
+
+
+<h3 class="heading-element" dir="auto">Maps Medics</h3>
+<a id="user-content-maps-medics" class="anchor" aria-label="Permalink: Maps Medics" href="#maps-medics">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+  </svg>
+</a>
+
+ a digital tool designed to make learning more accessible and engaging, using interactive content like videos and quizzes to teach various subjects.
+ 
+<div align="start" style="margin-top: 20px;">
+  <div style="margin-bottom: 10px;">
+    <a href="https://play.google.com/store/apps/details?id=com.neon.e_learning" target="_blank" rel="noopener noreferrer" style="text-decoration: none; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 14px; display: inline-block;">
+       Google Play
+    </a>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <a href="https://apps.apple.com/eg/app/maps-medics/id6474092627" target="_blank" rel="noopener noreferrer" style="text-decoration: none; background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; font-size: 14px; display: inline-block;">
+      App Store
+    </a>
+  </div>
+</div>
+
+
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 class="heading-element" dir="auto"> ZEA Store</h3>
 <a id="user-content-zea-store" class="anchor" aria-label="Permalink: ZEA Store" href="#zea-store">
